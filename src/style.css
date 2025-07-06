@@ -830,7 +830,6 @@
     width: clamp(300px, 50vw, 600px);
     height: calc(clamp(300px, 50vw, 600px) * 0.6); /* Maintaining 5:3 ratio */
     aspect-ratio: 5 / 3;
-    background-color: red;
     border-radius: 30px;
     overflow: hidden;
     box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
